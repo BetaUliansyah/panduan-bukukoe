@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Buttons
+title: Member
 parent: Panduan Pelanggan 
-nav_order: 2
+nav_order: 1
 ---
 # Registrasi, Login, Status Member dan Reset Password
 
