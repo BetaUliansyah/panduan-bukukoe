@@ -1,3 +1,9 @@
+---
+layout: default
+title: Buttons
+parent: Panduan Pelanggan 
+nav_order: 2
+---
 # Registrasi, Login, Status Member dan Reset Password
 
 ## Panduan Registrasi
