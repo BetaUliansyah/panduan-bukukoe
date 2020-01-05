@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Panduan untuk Pelanggan Bukukoe.Com
-nav_order: 4
+title: Panduan Pelanggan
+nav_order: 1
 has_children: true
 permalink: docs/panduan-pelanggan
 ---
