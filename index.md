@@ -6,17 +6,17 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Panduan Penggunaan Bukukoe.Com
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Panduan untuk admin dan pelanggan Bukukoe.Com.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Panduan untuk Pelanggan](#panduan-untuk-pelanggan-bukukoecom){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Panduan untuk admin](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## Panduan untuk Pelanggan Bukukoe.Com
 
 ### Dependencies
 
@@ -94,3 +94,11 @@ email, or any other method with the owners of this repository before making a ch
 Just the Docs is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+
+## Panduan untuk Admin
+### Daftar Isi
+1. [User](#)
+2. [Pengenalan Tampilan](#)
+3. [Barang Masuk](#)
+4. [Penjualan](#)
+5. [Pengiriman](#)
