@@ -6,3 +6,9 @@ title: Bismillah by Beta
 
 # Bismillah (ukuran H1)
 ## Alhamdulillah (ukuran H2)
+
+Ini teks biasa.
+
+Ini **tebal**
+Ini *miring*
+
