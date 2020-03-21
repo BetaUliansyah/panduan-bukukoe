@@ -5,4 +5,4 @@ Website [panduan.bukukoe.com](https://panduan.bukukoe.com/) adalah website yang 
 
 Website ini dapat diakses baik oleh **Admin**, *Marketter*, maupun ~~customer~~. Semoga dengan adanya website ini, bisa lebih memudahkan para penggunanya untuk mendapatkan pelayanan yang cepat dan efektif.
 
-### Terimakasih
+### Terimakasih..
