@@ -1,6 +1,6 @@
 ---
 # ini namanya front matter, diisi dengan bbrp konfigurasi
-title: Bismillah
+title: Bismillah by Beta
 # title nanti muncul di status bar browser (di atas)
 ---
 
