@@ -1,5 +1,5 @@
 ---
-title: Bismillah
+title: Sambutan
 ---
 
 # Bismillah..
