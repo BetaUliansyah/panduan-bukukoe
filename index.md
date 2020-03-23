@@ -32,5 +32,6 @@ Pertanyaan ataupun hal-hal lain yang penting terkait teknis penggunaan web Bukuk
 
 [WhatsApp Kami](https://wa.me/628567074554?text=Saya+membaca+web+panduan+bukukoe,+namun+masih+ada+pertanyaan){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-Terimakasih atas kerja samanya.
+Respon atas pesan whatsapp yang masuk sesuai kemampuan kami untuk menjawab. Mohon kesabaran dan pengertiannya, terimakasih atas kerja samanya. 
+
 ---
