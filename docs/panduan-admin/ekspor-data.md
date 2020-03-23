@@ -2,6 +2,7 @@
 layout: default
 title: Ekspor Data
 #nav_order: 2
+parent: Panduan Admin
 ---
 
 # Cara Ekspor Data
