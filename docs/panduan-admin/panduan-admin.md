@@ -7,8 +7,9 @@ permalink: docs/panduan-admin
 ---
 
 # Daftar Isi
-1. User
+1. Mengelola User
 2. Pengenalan Tampilan
-3. Barang Masuk
-4. Penjualan
-5. Pengiriman
+3. Panduan Barang Masuk
+4. Panduan Penjualan
+5. Panduan Pengiriman
+6. [Panduan Ekspor Data](/docs/panduan-admin/ekspor-data)
