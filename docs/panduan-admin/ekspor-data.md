@@ -18,4 +18,4 @@ Ekspor data adalah langkah atau cara untuk mengambil banyak data dari Odoo. Pada
 
 ## Video Ekspor Data
 
-![Cara Ekspor Data](https://img.youtube.com/vi/qb7gWJJHtMM/0.jpg)](https://www.youtube.com/watch?v=qb7gWJJHtMM)
+[![Cara Ekspor Data](https://img.youtube.com/vi/qb7gWJJHtMM/0.jpg)](https://www.youtube.com/watch?v=qb7gWJJHtMM)
