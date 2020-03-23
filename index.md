@@ -16,19 +16,20 @@ Website Bukukoe.Com dibangun menggunakan [Odoo](https://www.odoo.com/) versi 13 
 
 ---
 
-## Panduan untuk Pelanggan Bukukoe.Com
+# Bismillah..
+## Selamat Datang di panduan.bukukoe.com
 
-### Daftar Isi
-1. [Registrasi, Login, Status Member dan Reset Password](#)
-2. [Pemesanan ke alamat sendiri](#)
-3. [Pemesanan ke alamat customer (dropship)](#)
-4. [Konfirmasi Pembayaran](#)
-5. [Cek Resi Pengiriman](#)
+Website [panduan.bukukoe.com](https://panduan.bukukoe.com/) adalah website yang berisi petunjuk atau langkah-langkah dalam menggunakan website bukukoe.com sebagai media pemesanan produk-produk yang ada di bukukoe.
 
-## Panduan untuk Admin
-### Daftar Isi
-1. [User](#)
-2. [Pengenalan Tampilan](#)
-3. [Barang Masuk](#)
-4. [Penjualan](#)
-5. [Pengiriman](#)
+Website ini dapat diakses baik oleh **Admin**, *Marketter*, maupun ~~customer~~. Semoga dengan adanya website ini, bisa lebih memudahkan para penggunanya untuk mendapatkan pelayanan yang cepat dan efektif.
+
+Silakan akses masing-masing panduan melalui menu navigasi di sebelah kiri (pada layar PC) atau di link Menu di kanan atas (pada browser mobile), atau silakan klik tombol berikut:
+
+[Panduan untuk Pelanggan](/docs/panduan-pelanggan){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Panduan untuk admin](/docs/panduan-admin){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+## Kontak WhatsApp
+[WhatsApp Kami](https://wa.me/628567074554/?text=Saya+membaca+web+panduan+bukukoe,+namun+masih+ada+pertanyaan){: .btn .btn-success .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+
+### Terimakasih..
+---
