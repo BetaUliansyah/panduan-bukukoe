@@ -28,7 +28,8 @@ Kami akan terus menambahkan panduan-panduan yang diperlukan. Jika Anda merasa ad
 
 ## Kontak WhatsApp
 
-Pertanyaan ataupun hal-hal lain yang penting terkait teknis penggunaan web Bukukoe dapat disampaikan melalui whatsapp saya berikut ini: 
+Pertanyaan ataupun hal-hal lain yang penting terkait teknis penggunaan web Bukukoe dapat disampaikan melalui whatsapp saya berikut ini:
+
 [WhatsApp Kami](https://wa.me/628567074554?text=Saya+membaca+web+panduan+bukukoe,+namun+masih+ada+pertanyaan){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 Terimakasih atas kerja samanya.
