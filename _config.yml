@@ -39,7 +39,7 @@ aux_links:
     - "//bukukoe.com/"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 Beta Uliansyah"
+footer_content: "Disusun oleh: Beta Uliansyah<br>Copyright &copy; Bukukoe.com 2020 "
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
