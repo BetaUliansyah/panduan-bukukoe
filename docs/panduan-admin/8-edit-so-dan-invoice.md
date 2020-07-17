@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ekspor Data
+title: Edit SO dan Invoice
 nav_order: 8
 parent: Panduan Admin
 permalink: docs/panduan-admin/edit-so-dan-invoice
