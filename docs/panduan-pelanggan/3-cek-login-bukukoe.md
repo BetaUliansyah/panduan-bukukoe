@@ -4,9 +4,9 @@ title: Cara Cek Login di Web Bukukoe
 parent: Panduan Pelanggan 
 nav_order: 3
 ---
-# Cara Cek Status Login
+# Cara Cek Status Login Bukukoe.Com
 
-Jika Anda ragu-ragu apakah saat ini sudah login atau belum ke web Bukukoe, silakan buka [bukukoe.com/my/home](https://bukukoe.com/my/home). Jika sudah login, maka akan muncul nama pelanggan di halaman tersebut. Jika tidak muncul nama Anda, silakan [login](https://bukukoe.com/web/login) kembali. Baca [Panduan Login](](/doc/panduan-pelanggan/2-login) jika ada kesulitan.
+Jika Anda ragu-ragu apakah saat ini sudah login atau belum ke web Bukukoe, silakan buka [bukukoe.com/my/home](https://bukukoe.com/my/home). Jika sudah login, maka akan muncul nama pelanggan di halaman tersebut. Jika tidak muncul nama Anda, silakan [login](https://bukukoe.com/web/login) kembali. Baca [Panduan Login](](/doc/panduan-pelanggan/2-login-bukukoe) jika ada kesulitan.
 
 ## Contoh Cek Status Login Melalui PC
 
