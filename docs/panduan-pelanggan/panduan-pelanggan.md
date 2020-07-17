@@ -24,3 +24,6 @@ Panduan penggunaan web Bukukoe.Com untuk pelanggan, terutama bagi Marketer/Resel
 2. Pemesanan ke alamat customer (dropship)
 3. Konfirmasi Pembayaran
 4. Cek Resi Pengiriman
+
+## Mengatasi Error
+1. [Error Subdistrict](/docs/panduan-pelanggan/error)
