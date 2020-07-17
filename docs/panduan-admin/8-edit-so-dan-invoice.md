@@ -11,7 +11,7 @@ permalink: docs/panduan-admin/edit-so-dan-invoice
 Total tagihan SO dan Invoice harus sama. SO akan dibaca pelanggan di bukukoe.com/my/orders sedangkan Invoice akan digunakan Odoo untuk cap lunas otomatis ketika ada transfer masuk. 
 
 ## Langkah-langkah Edit SO dan Invoice untuk menambahkan Ongkir
-1. Buka menu Sales | Quotations, cari SO yang akan diedit.
+1. Buka menu Sales, pilih Quotations, cari SO yang akan diedit.
 2. Klik Edit, dan klik Update Shipping Cost. PIlih Ongkir Dihitung Manual.
 3. Isikan Ekspedisi dan nominal Ongkir yang sebenarnya. Klik Save.
 4. Klik Invoice, klik Reset to Draft, klik Edit. Ubah Ekspedisi dan nominal Ongkir menjadi yang sebenarnya. Klik Save. Klik Post. Pastikan Total SO dan total Invoice sama.
