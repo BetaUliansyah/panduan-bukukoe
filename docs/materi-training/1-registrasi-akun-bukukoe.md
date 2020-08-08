@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Materi Training
-nav_order: 3
-has_children: true
-permalink: docs/materi-training/1-registrasi-akun-bukukoe
+title: Aktivitas Training #1: Membuat Akun Bukukoe 
+parent: Materi Training
+nav_order: 1
 ---
 
 # Registrasi Akun Bukukoe.com
