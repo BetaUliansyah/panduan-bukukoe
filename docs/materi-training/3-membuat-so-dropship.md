@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aktivitas Training #3 Membuat SO Dropship 
+title: 3-Membuat SO Dropship 
 parent: Materi Training
 nav_order: 2
 ---
