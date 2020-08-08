@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aktivitas Training #2 Membuat SO ke alamat sendiri 
+title: 2-Membuat SO ke alamat sendiri 
 parent: Materi Training
 nav_order: 2
 ---
