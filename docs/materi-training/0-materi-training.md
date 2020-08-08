@@ -26,7 +26,7 @@ Untuk menyelesaikan latihan tersebut, silakan mengerjakan 3 aktivitas berikut in
 
 ## Kerjakan 3 latihan berikut ini secara berurutan
 1. [Latihan #1: Registrasi Akun](/docs/materi-training/1-registrasi-akun-bukukoe/)
-2. [Latihan #2: Membuat SO ke alamat sendiri](/docs/materi-training/2-membuat-so/)
+2. [Latihan #2: Membuat SO ke alamat sendiri](/docs/materi-training/2-membuat-so-ke-alamat-sendiri/)
 3. [Latihan #3: Membuat SO Dropship](/docs/materi-training/3-membuat-so-dropship/)
 
 ## Materi berikutnya 
