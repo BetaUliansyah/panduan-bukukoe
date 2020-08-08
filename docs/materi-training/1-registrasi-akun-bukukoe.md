@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aktivitas Training #1: Membuat Akun Bukukoe 
+title: Aktivitas Training #1 Membuat Akun Bukukoe 
 parent: Materi Training
 nav_order: 1
 ---
