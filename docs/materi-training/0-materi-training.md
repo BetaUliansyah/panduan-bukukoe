@@ -7,7 +7,7 @@ permalink: docs/materi-training
 ---
 
 # Materi Training Bukukoe.com
-Materi Training ini disampaikan pada grup training mitra Bukukoe. {: .fs-6 .fw-300 }
+Materi Training ini disampaikan pada grup training mitra Bukukoe.{: .fs-6 .fw-300 }
 
 ## Pengantar 
 Utk menjadi mitra bukukoe (baik marketer maupun reseller), syaratnya harus lulus training teknis pemesanan via web, serta melakukan akad kemitraan dengan Bukukoe. 
