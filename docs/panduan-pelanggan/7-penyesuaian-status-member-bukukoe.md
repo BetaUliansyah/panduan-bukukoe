@@ -1,12 +1,23 @@
 ---
 layout: default
-title: Penyesuaian Status Member Bukukoe
+title: Pemesanan Dropship
 parent: Panduan Pelanggan 
 nav_order: 7
 ---
-# Panduan Penyesuaian Status Member Bukukoe
 
-Penyesuaian status member dari Customer Umum menjadi Marketer/Reseller dapat dilakukan dengan menginfokan alamat email yang digunakan sebagai akun di bukukoe.com melalui tautan berikut ini:
-[https://bit.ly/statusmemberbukukoe](https://bit.ly/statusmemberbukukoe){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+# Membuat SO Dropship
+Membuat SO Dropship artinya pengiriman akan dialamatkan langsung ke pelanggan. Simak cara membuat SO Dropship berikut ini. {: .fs-6 .fw-300 }
 
-Untuk penyesuaian status menjadi Reseller harap menginfokan juga nomor SO syarat Reseller melalui tautan di atas.
+## Langkah-langkah Membuat SO ke Dropship
+Cara membuat SO Dropship sama dengan membuat SO biasa, hanya berbeda ketika memasukkan Alamat Pengiriman, yaitu menggunakan tombol Add an Address. Lakukan latihan berikut ini:
+
+1. Pesan kembali beberapa item Produk Latihan. Lalu klik tombol Process Checkout.
+2. Klik link Edit di kotak alamat. Lalu klik link Add an Address di kotak Shipping Address. Isikan alamat yang berbeda dari SO sebelumnya lalu klik tombol Next. 
+3. Setelah kembali ke halaman sebelumnya, pilih ongkir yang ada nominalnya dan klik tombol Pay Now. 
+4. Muncul nomor SO. Jika belum ada nomor SO, pesanan belum tercatat di sistem kami. Bagi yang sudah berhasil membuat SO, silakan isi form: https://bit.ly/bukukoe-training3
+
+
+
+
+## Latihan dapat diulang
+Latihan dapat diulang sepanjang memesan *Produk Latihan*.
