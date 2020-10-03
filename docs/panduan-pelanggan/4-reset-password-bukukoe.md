@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Panduan Reset Password Bukukoe
+title: Reset Password Bukukoe
 parent: Panduan Pelanggan 
 nav_order: 4
 ---
