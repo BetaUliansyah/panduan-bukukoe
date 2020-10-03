@@ -20,7 +20,11 @@ Cara membuat SO Dropship sama dengan membuat SO biasa, hanya berbeda ketika mema
 Latihan dapat diulang sepanjang memesan *Produk Latihan*.
 
 ## Contoh Pemesanan Dropship dan Mengganti Nama Sender Melalui PC
-Jalankan browser (disarankan menggunakan browser [Chrome](https://www.google.com/chrome/)). Berikut ini contoh tangkapan layar registrasi akun Bukukoe menggunakan browser Chrome.
+Jalankan browser (disarankan menggunakan browser [Chrome](https://www.google.com/chrome/)). Berikut ini contoh tangkapan layar Pemesanan Dropship dan Mengganti Nama Pengirim menggunakan browser Chrome.
+
+1. Klik Add Sender ![alt text](/asset/images/Sender-1.jpg "Klik Add Sender")
+2. Isikan Nama dan No HP Pengirim ![alt text](/asset/images/Sender-2.jpg "Isikan Nama dan No HP Pengirim")
+3. Pastikan Sender sudah terisi ![alt text](/asset/images/Sender-3.jpg "Pastikan Sender sudah terisi")
 
 ## Contoh Pemesanan Dropship dan Mengganti Nama Sender Melalui Smartphone Android (Chrome)
 Jalankan aplikasi [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en), dan buka tautan [https://bukukoe.com/web/signup](https://bukukoe.com/web/signup). Berikut ini tangkapan layar pemesanan akun Bukukoe dari HP Android.
