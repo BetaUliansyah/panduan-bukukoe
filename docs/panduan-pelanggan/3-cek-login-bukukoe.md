@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cara Cek Login di Web Bukukoe
+title: Cara Cek Status Login di Web Bukukoe
 parent: Panduan Pelanggan 
 nav_order: 3
 ---
