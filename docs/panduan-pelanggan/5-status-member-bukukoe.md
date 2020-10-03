@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Panduan Status Member Bukukoe
+title: Cek Status Member Bukukoe
 parent: Panduan Pelanggan 
 nav_order: 5
 ---
