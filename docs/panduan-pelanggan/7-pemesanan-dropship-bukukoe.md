@@ -6,7 +6,7 @@ nav_order: 7
 ---
 
 # Membuat SO Dropship
-Membuat SO Dropship artinya pengiriman akan dialamatkan langsung ke pelanggan. Nama Pengirim dapat disesuaikan menurut keinginan Mitra Bukukoe. Simak cara membuat SO Dropship dan mengganti Nama Pengirim berikut ini.{: .fs-6 .fw-300 }
+Membuat SO Dropship artinya pengiriman akan dialamatkan langsung ke pelanggan. Nama Pengirim dapat disesuaikan menurut keinginan Mitra Bukukoe. Simak cara membuat SO Dropship dan mengganti Nama Pengirim berikut ini. {: .fs-6 .fw-300}
 
 ## Langkah-langkah Membuat SO Dropship dan Mengganti Nama Pengirim
 Cara membuat SO Dropship sama dengan membuat SO biasa, hanya berbeda ketika memasukkan Alamat Pengiriman, yaitu menggunakan tombol Add an Address. Lakukan latihan berikut ini:
