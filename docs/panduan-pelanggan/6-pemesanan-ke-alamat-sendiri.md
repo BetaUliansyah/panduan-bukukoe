@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Panduan Pemesanan Bukukoe ke Alamat Sendiri
+title: Pemesanan ke Alamat Sendiri
 parent: Panduan Pelanggan 
 nav_order: 6
 ---
