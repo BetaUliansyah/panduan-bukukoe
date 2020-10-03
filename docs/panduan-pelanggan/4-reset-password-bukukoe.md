@@ -13,13 +13,11 @@ Jika Anda lupa password Bukukoe.Com, lakukan reset password dengan langkah-langk
 4. Link reset password memiliki masa kadaluwarsa, jika terlalu lama tidak diklik maka link tersebut akan tidak valid. Jika hal ini terjadi, Anda harus mengulangi dari awal langkah-langkah reset password di atas.
 
 ## Contoh Reset Password Bukukoe Melalui PC
-
 Jalankan browser (disarankan menggunakan browser [Chrome](https://www.google.com/chrome/)). Berikut ini contoh tangkapan layar reset password Bukukoe menggunakan browser Chrome.
 
 
-
 ## Contoh Reset Password Bukukoe Melalui Android (Chrome)
-
 Jalankan aplikasi [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en), dan buka tautan [https://bukukoe.com/web/reset_password](https://bukukoe.com/web/reset_password). Berikut ini tangkapan layar Reset Password Bukukoe dari HP Android.
 
-Beberapa rekan Bukukoe menggunakan Opera Mini.
+## Video Reset Password Bukukoe
+[![Cara Reset Password Bukukoe](https://img.youtube.com/vi/pyZKhynJhVY/0.jpg)](https://www.youtube.com/watch?v=pyZKhynJhVY)
