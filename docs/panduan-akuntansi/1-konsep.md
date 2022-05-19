@@ -13,4 +13,7 @@ Akuntansi di Bukukoe.Com digunakan untuk menyusun laporan keuangan, dengan menca
 5. Transaksi internal. Misal: pemindahan kas dari salah satu rekening bank Bukukoe.com ke rekening bank Bukukoe.com lainnya.
 
 # Alur Transaksi
-(insert gaambar dari Miro) https://miro.com/app/board/uXjVOzxlJJU=/
+Alur akuntansi Bukukoe sebagai berikut.
+![Alur Akuntansi Bukukoe](/assets/images/alur-akuntansi-bukukoe.jpg)
+
+# Panduan Rekonsiliasi Beban
